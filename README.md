@@ -1,6 +1,4 @@
 # all4mepublicsite
-TOPICS:
-[Publishing Power BI reports on a website](./pbionwebsite.md)
 
 
 ## Publish Power BI report on Website
