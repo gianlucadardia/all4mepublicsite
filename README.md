@@ -32,6 +32,8 @@ Report is interactive and can be fully navigated as report below
 
 #### Considerations and Limitations
 
-Publish to web has some limitations reported below
+Publish to web has some limitations reported below. Feel free to navigate
+We can see that the report is interactive and can be fully navigated
+
 
 ![](assets/20240830_112926_image.png)
