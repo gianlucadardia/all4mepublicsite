@@ -1,4 +1,7 @@
 # all4mepublicsite
+TOPICS:
+[Publishing Power BI reports on a website](./pbionwebsite.md)
+
 
 ## Publish Power BI report on Website
 
@@ -16,10 +19,10 @@ In this way, an access login is required. And you should have Power BI license (
 
 ### WAY 2: Publish to web
 
-REF LINK: https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-publish-to-web
+
+[REF LINK: Publish to web](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-publish-to-web)
 
 Report published with "Publish to web"
-
 
 ![](assets/20240830_114059_image.png)
 
