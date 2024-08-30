@@ -8,7 +8,7 @@ This method requires an access login and a Power BI license. Follow these steps:
 
 1. From file menu Click on the "Embed" button.
 2. Go to the "Website or portal" section.
-![](assets/20240830_113659_image.png)
+![](../assets/20240830_113659_image.png)
 3. Copy the generated iframe code.
 4. Paste the iframe code into your website's HTML.
 
@@ -28,7 +28,7 @@ If you want to make the report accessible to anyone on the internet without requ
 1. Read the [Publish to web documentation](https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-publish-to-web) for more information.
 2. Click on the "Publish to web" button.
 
-![](assets/20240830_114059_image.png)
+![](../assets/20240830_114059_image.png)
 
 3. Copy the generated iframe code.
 4. Paste the iframe code into your website's HTML.
@@ -48,6 +48,6 @@ Please note that using the "Publish to web" feature has some limitations. Make s
 Before publishing your Power BI report, consider the following limitations:
 
 
-![](assets/20240830_112926_image.png)
+![](../assets/20240830_112926_image.png)
 
 
